@@ -20,7 +20,13 @@ section: faq
 
 ---
 
-Pop!_OS 18.10 was released in October, 2018. This article explains how to upgrade from Pop!_OS 18.04 to Pop!_OS 18.10. If you are on Pop!_OS 17.10, please backup your files and reinstall the operating system as described here: [Install Pop](/articles/install-pop/).
+Pop!_OS 18.10 was released in October, 2018. This article explains how to upgrade from Pop!_OS 18.04 to Pop!_OS 18.10. If you are on Pop!_OS 17.10, please backup your files and run this command:
+
+```
+do-release-upgrade
+```
+
+If it states that there is no available upgrade then a fresh install of Pop will be need. Instructions for [reinstalling Pop are here](/articles/install-pop/).
 
 ### Create Installation USB
 
