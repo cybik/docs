@@ -65,6 +65,7 @@ Windows can be switched between, moved around, tiled, and closed all with the ke
 | <kbd><span class="fl-pop-key"></span></kbd> + <kbd>Space</kbd> | Switch input source |
 | <kbd>Alt</kbd> + <kbd>F2</kbd> | Run command |
 | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Del</kbd> | Log out |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd> | Starts/Stops screen recording |
 
 #### Accessibility
 
